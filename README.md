@@ -27,5 +27,6 @@
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=priyanshusingh305&theme=xcode" alt="priyanshusingh305" />
 </p>
+
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh305&theme=highcontrast" alt="priyanshusingh305" /></p>
