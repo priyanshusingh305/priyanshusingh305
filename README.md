@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **DSA**
 
-- 📫 How to reach me **singhpriyanshu305@gmail.com**
+- 📫 How to reach me **priyanshusingh.connect@gmail.com**
 
 - ⚡ Fun fact **I love to Innovate😁**
 
