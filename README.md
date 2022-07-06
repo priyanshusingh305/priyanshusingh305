@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <hr>
 
-- 🌱 I’m currently learning BACKEND
+- 🌱 I’m currently learning DSA
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **priyanshusingh.connect@gmail.com**
 
