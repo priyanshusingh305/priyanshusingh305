@@ -4,8 +4,8 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Hemant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Priyanshu Singh</h1>
+<h3 align="center">A passionate PERN stack Developer from India</h3>
 
 
 ## 🛠 My skills include 
@@ -16,23 +16,22 @@
 
 ## 📖  What I am currently learning / improving on
 <p align="center">
-<img src="https://img.shields.io/badge/Vuejs-282C34?logo=Vue.js&logoColor=43B882" alt="Vuejs logo" title="Vue.js" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
  </p>
  
 <br/>
  
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantwasthere&theme=black-ice" alt="Salonee-Jain"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh305&theme=black-ice" alt="Priyanshu-Singh"  /></p>
 
 <br>
 
 ## 📬 Get in touch
 
 <p align="center">
-<a href="https://twitter.com/hemantwasthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hemantwasthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/hemantwasthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a>
+<a href="https://twitter.com/akapriyanshudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akapriyanshudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/akapriyanshu.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -45,15 +44,15 @@
 
 ## &#x1f4c8; My GitHub Stats
 <p  align="center"> 
-<a href="https://github.com/hemantwasthere">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemantwasthere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantwasthere&theme=algolia&hide=c%2B%2B&layout=compact"/>
+<a href="https://github.com/priyanshusingh305">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh305&theme=algolia&hide=c%2B%2B&layout=compact"/>
 </a>
 </p>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hemantwasthere&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=priyanshusingh305&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
 
 ## 🧋 Support
-<p><a href="https://www.buymeacoffee.com/xebec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xebec" /></a>
+<p><a href="https://www.buymeacoffee.com/akapriyanshudev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akapriyanshudev" /></a>
 </p>
 
 </details>
