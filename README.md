@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Hi, I'm Priyanshu Singh</h1>
-<h3 align="center">A passionate PERN stack Developer from India</h3>
+<h3 align="center">A passionate MERN stack Developer from India</h3>
 
 
 ## 🛠 My skills include 
